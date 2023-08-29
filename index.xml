@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Onemore118</title>
+    <link>https://onemore118.github.io/</link>
+    <description>Recent content on Onemore118</description>
+    <image>
+      <title>Onemore118</title>
+      <url>https://onemore118.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://onemore118.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://onemore118.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋🏻‍♂️关于</title>
+      <link>https://onemore118.github.io/about/</link>
+      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
+      
+      <guid>https://onemore118.github.io/about/</guid>
+      <description> 英文名: Kevin Xu 职业: 程序员 运动: 跑步、乒乓球、爬山 </description>
+    </item>
+    
+  </channel>
+</rss>
