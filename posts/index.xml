@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Onemore118</title>
-    <link>https://onemore118.github.io/</link>
-    <description>Recent content on Onemore118</description>
+    <title>Posts on Onemore118</title>
+    <link>https://onemore118.github.io/posts/</link>
+    <description>Recent content in Posts on Onemore118</description>
     <image>
       <title>Onemore118</title>
       <url>https://onemore118.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://onemore118.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://onemore118.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>信息与能量</title>
       <link>https://onemore118.github.io/posts/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%83%BD%E9%87%8F/</link>
@@ -41,18 +41,6 @@ GPT4 是一个巨型的因果归纳器，而不是因果演绎器，它的原理
 References [1] AI Chatbots Don’t Care About Your Social Norms
 [2] LeCun再泼冷水：只会看书的语言模型永远无法实现类人智能</description>
     </item>
-    
-    <item>
-      <title>🧔🏼 about</title>
-      <link>https://onemore118.github.io/about/</link>
-      <pubDate>Wed, 30 Aug 2023 00:30:01 +0800</pubDate>
-      
-      <guid>https://onemore118.github.io/about/</guid>
-      <description>生与死是大自然的辩证法，得与失是人生的对立与统一。
-余当运用毕生之功，运筹帷幄之间，运揣奇策，潜心研习西方科学之思，汲取中华千载之中庸之道，申心践行于大变革之浪潮，弹精竭虑， 欲为经世致用之君子所当行之道。
-兼及世情，不仅求解于世界，更将塑造世界于我，使得心境无愧于一生之世，力求所成坚定可喜，即使所失亦可悦之境界。</description>
-    </item>
-    
     
   </channel>
 </rss>

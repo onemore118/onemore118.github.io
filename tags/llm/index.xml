@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Onemore118</title>
-    <link>https://onemore118.github.io/</link>
-    <description>Recent content on Onemore118</description>
+    <title>LLM on Onemore118</title>
+    <link>https://onemore118.github.io/tags/llm/</link>
+    <description>Recent content in LLM on Onemore118</description>
     <image>
       <title>Onemore118</title>
       <url>https://onemore118.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,20 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://onemore118.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>信息与能量</title>
-      <link>https://onemore118.github.io/posts/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%83%BD%E9%87%8F/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://onemore118.github.io/posts/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%83%BD%E9%87%8F/</guid>
-      <description>信息与能量的关系 当你知道信息熵和热力熵是同一个公式的时候，你就会明白为什么在这个时代，信息行业能够造成如此巨大的影响。因为信息即是能量，那些码代码的工程师实际上是在控制能量。所以决定企业的体量就在于控制信息量的大小。
-为什么OpenAI 在今天能够达到这么高的估值，主要的原因在于其几乎学会了控制整个互联网的信息。而 Google 作为上个二十年的巨无霸企业，在如今却像是掌控铀的原材料国，却尚无一手开发资源的能力。二者掌控的能量现在好比铀与原子弹的差距。
-但是 openai 绝非高枕无忧，一方面运行 GPT 需要负担高额成本，另一方面学会造原子弹的机构越来越多。同时，GPT 现在就像原子弹一样不可控，只能靠一大堆约束技术加以限制。
-因此，这里可以做个预判，下一个时代的巨无霸，其核心能力将在于能否将 LLM 加以合理控制，即像是 GPT 现在还是核聚变，而我们要做的是，实现可控核聚变。
-References [1] 张首晟-第一性原理与创业</description>
-    </item>
-    
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://onemore118.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>论智能</title>
       <link>https://onemore118.github.io/posts/llms%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7/</link>
@@ -41,18 +28,6 @@ GPT4 是一个巨型的因果归纳器，而不是因果演绎器，它的原理
 References [1] AI Chatbots Don’t Care About Your Social Norms
 [2] LeCun再泼冷水：只会看书的语言模型永远无法实现类人智能</description>
     </item>
-    
-    <item>
-      <title>🧔🏼 about</title>
-      <link>https://onemore118.github.io/about/</link>
-      <pubDate>Wed, 30 Aug 2023 00:30:01 +0800</pubDate>
-      
-      <guid>https://onemore118.github.io/about/</guid>
-      <description>生与死是大自然的辩证法，得与失是人生的对立与统一。
-余当运用毕生之功，运筹帷幄之间，运揣奇策，潜心研习西方科学之思，汲取中华千载之中庸之道，申心践行于大变革之浪潮，弹精竭虑， 欲为经世致用之君子所当行之道。
-兼及世情，不仅求解于世界，更将塑造世界于我，使得心境无愧于一生之世，力求所成坚定可喜，即使所失亦可悦之境界。</description>
-    </item>
-    
     
   </channel>
 </rss>
