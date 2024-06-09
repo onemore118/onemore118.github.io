@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://onemore118.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://onemore118.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>编程范式迁移</title>
+      <link>https://onemore118.github.io/posts/%E7%BC%96%E7%A8%8B%E8%8C%83%E5%BC%8F%E8%BF%81%E7%A7%BB/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://onemore118.github.io/posts/%E7%BC%96%E7%A8%8B%E8%8C%83%E5%BC%8F%E8%BF%81%E7%A7%BB/</guid>
+      <description>随着 AI 作为新质生产力发挥作用，编程范式也在悄然发生改变。 我们会发现，现在编程从传统的基于规则的模式，正在向基于数据与推理的 agent 方向迁移。 利用 LLM</description>
+    </item>
+    
     <item>
       <title>论智能</title>
       <link>https://onemore118.github.io/posts/llms%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7/</link>
